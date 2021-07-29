@@ -1,6 +1,6 @@
 # Flappy-Bird
 
-Projeto realizado 'Curso Web Moderno Completo com JavaScript 2021 + Projetos' da Udemy
+Projeto realizado no 'Curso Web Moderno Completo com JavaScript 2021 + Projetos' da Udemy
 
 Esse programa consiste em uma versão modificada do famoso jogo "Flappy Bird".
 Para jogar basta abrir o arquivo "flappy.html" no seu browser.
